@@ -22,7 +22,7 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Dataset
 
-[UK Road Safety Dataset on Kaggle](https://www.kaggle.com/datasets) (not included in this repo due to file size — see `.gitignore`)
+[UK Road Safety Dataset on Kaggle](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset) (not included in this repo due to file size — see `.gitignore`)
 
 ## Notebook
 
